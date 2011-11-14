@@ -42,6 +42,7 @@ func startServer() {
 		}
 
 		echo(conn)
+		// go echo(conn)
 	}
 }
 
